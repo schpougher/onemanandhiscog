@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>Comments on: The Route</title>
+	<atom:link href="http://onemanandhiscog.co.uk/the-route/feed/" rel="self" type="application/rss+xml" />
+	<link>http://onemanandhiscog.co.uk</link>
+	<description></description>
+	<lastBuildDate>Sun, 19 Aug 2018 08:38:15 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.7.5</generator>
+	<item>
+		<title>By: Nikki</title>
+		<link>http://onemanandhiscog.co.uk/the-route/#comment-19</link>
+		<dc:creator><![CDATA[Nikki]]></dc:creator>
+		<pubDate>Fri, 14 Aug 2015 22:48:01 +0000</pubDate>
+		<guid isPermaLink="false">http://onemanandhiscog.co.uk/?page_id=73#comment-19</guid>
+		<description><![CDATA[YAY! This is so good to read. You are the hero Sam. Have fun, sweat lots xx]]></description>
+		<content:encoded><![CDATA[<p>YAY! This is so good to read. You are the hero Sam. Have fun, sweat lots xx</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: Mum!</title>
+		<link>http://onemanandhiscog.co.uk/the-route/#comment-5</link>
+		<dc:creator><![CDATA[Mum!]]></dc:creator>
+		<pubDate>Thu, 30 Jul 2015 20:16:50 +0000</pubDate>
+		<guid isPermaLink="false">http://onemanandhiscog.co.uk/?page_id=73#comment-5</guid>
+		<description><![CDATA[Love your blog Sam! Makes me feel close. It&#039;s very informative, witty &#038; articulate.  Keep blogging! Xxx]]></description>
+		<content:encoded><![CDATA[<p>Love your blog Sam! Makes me feel close. It&#8217;s very informative, witty &amp; articulate.  Keep blogging! Xxx</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>
